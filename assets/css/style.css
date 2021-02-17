@@ -1172,7 +1172,7 @@ main .main-wrapper.demo-06 .team-area .section-title h1 {
 
 main .main-wrapper.demo-06 .team-area .section-title h1::after {
   content: '';
-  position: absolute;
+  position: center;
   width: 30px;
   height: 1px;
   background: #fff;
